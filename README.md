@@ -15,7 +15,7 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Números%20complejos%20y%20fasores%20en%20Polar%20y%20Forma%20Rectangular-2.jpg)
 
 3. DIAGRAMAS
 
