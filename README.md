@@ -1,2 +1,3 @@
-# Laboratorio-7
-Favores
+# Laboratorio 7
+# Fasores
+
