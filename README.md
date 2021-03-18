@@ -13,15 +13,29 @@
 
 3. DIAGRAMAS
 
+* Fórmula para transformar de forma Rectangular a Polar
+
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Formula%201.png)
+
+* Fórmula para transformar de forma Polar a Rectangular
+
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Formula%202.png)
+
 4. LISTA DE COMPONENTES
+
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Lista.png)
 
 5. EXPLICACIÓN / RESOLUCIÓN
 
-6. MANUAL DE USUARIO
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos1.png)
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos2.png)
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos3.png)
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos4.png)
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos5.png)
+![](https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Imagenes/Calculos6.png)
 
-![]()
 
-7. CONCLUSIONES
+6. CONCLUSIONES
 
-8. BIBLIOGRAFIA
+7. BIBLIOGRAFIA
 
