@@ -52,5 +52,6 @@
 * Universidad Miguel Hernandez. (2019). innovacionumh.es. Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_3/UMH_03.htm
 * Grainger , J., & Stevenson, W. (1996). ANÁLISIS DE SISTEMAS DE POTENCIA. Mexico: Mc Graw-Hill. Obtenido de https://d1wqtxts1xzle7.cloudfront.net/45036335/ASP_C1.pdf?1461485591=&response-content-disposition=inline%3B+filename%3DANALISIS_DE_SISTEMAS_DE_POTENCIA.pdf&Expires=1616110457&Signature=c~4X2qC~5Pxwgqfi9WCIIamuRmDQtun4mSgh77K2fzh2zoAQh1-ZZ3jyRExYy5UheoNfR
 
-
+8. VIDEO LINK = https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Video/VideoLink
+9. RESOLUCION = https://github.com/JosueCamp2020/Laboratorio-7/blob/main/Anexos/Calculos%20Guia%207.pdf
 
