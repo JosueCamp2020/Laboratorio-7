@@ -5,7 +5,7 @@
 
 1.1 OBJETIVOS GENERALES
 
-* Realizar y Analizar los dieferentes problemas con numeros complejos tanto para su forma polar como para su forma rectangular.
+* Realizar y Analizar los diferentes problemas con numeros complejos tanto para su forma polar como para su forma rectangular.
 
 1.2 OBJETIVOS ESPECIFICOS
 
